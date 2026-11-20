@@ -1,6 +1,6 @@
 import 'package:material_ui/material_ui.dart';
 
-import 'package:shopping_list/models/category.dart';
+import 'package:shopping/models/category.dart';
 
 const categories = {
   Categories.vegetables: Category(
